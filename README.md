@@ -1,8 +1,8 @@
 <div align="center">
-  ![Banner Readme Ignews](https://github.com/brenoRyan77/imds/blob/main/1645714791938.jpg)
+ 
 </div>
 <br>
-
+ ![Banner Readme Ignews](https://github.com/brenoRyan77/imds/blob/main/1645714791938.jpg)
 
 
 
