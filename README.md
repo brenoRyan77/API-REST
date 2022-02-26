@@ -1,4 +1,4 @@
-![Banner Readme Ignews](https://user-images.githubusercontent.com/62440116/155584175-308f8376-f2e3-46e7-b974-3c9539703502.svg)
+![Banner Readme Ignews](https://github.com/brenoRyan77/imds/blob/main/1645714791938.jpg)
 
 # 👷🏻 O Projeto
 Esse é um projeto desenvolvido e ministrado pela DevSuperior com o professor Nélio Alves da trilha Srping Boot. O programa é uma API REST com banco de dados em memória de usuários e seus respectivos departamentos.
